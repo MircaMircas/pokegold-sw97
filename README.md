@@ -1,6 +1,6 @@
 # Pokémon Gold and Silver: Space World 1997 Demo
 
-This is a disassembly of the Pokémon Gold and Pokémon Silver prototypes demoed at Space World 1997.
+This is a disassembly of the Pokémon Gold and Silver prototypes demoed at Space World 1997.
 
 It builds the following ROMs:
 

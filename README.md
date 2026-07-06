@@ -1,4 +1,4 @@
-# Pokémon Gold and Silver: Space World 1997 Demo [![Build Status][ci-badge]][ci]
+# Pokémon Gold and Silver: Space World 1997 Demo
 
 This is a disassembly of the Pokémon Gold and Pokémon Silver prototypes demoed at Space World 1997.
 
